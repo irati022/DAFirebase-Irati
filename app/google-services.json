@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "829971306535",
+    "project_id": "fir-froga-d14e4",
+    "storage_bucket": "fir-froga-d14e4.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:829971306535:android:f7c49720332ac475525602",
+        "android_client_info": {
+          "package_name": "com.example.firebasefroga"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAGyMCb3aLtKHrR0R-zbWCzY13yeetZfHA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
